@@ -27,3 +27,5 @@ foreach ($path in $paths) {
 if (-not $found) {
     Write-Output "Cannot find version infomation of Lanscope Cat"
 }
+
+
